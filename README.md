@@ -1,5 +1,5 @@
 # Video_Prediction_ZOO
-This is a zoo which contain all kinds of video prediction model code(reimplementation or author provide)and the paper.I created this repository to make it easy for newbies in the video prediction field to get started.
+This is a zoo which contains all kinds of video prediction model code(reimplementation or author provide)and the papers.The purpose of creating this repository is to make it easy for newbies in the video prediction field to get started.
 
 
 Predicting_Future_Frames_Using_Retrospective_Cycle_GAN（CVPR2019）
