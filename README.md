@@ -33,7 +33,7 @@ paper：https://arxiv.org/abs/1511.06309<br>
 Notes:https://zhuanlan.zhihu.com/p/106690353<br>
 Re-Implementation code: <br>
 
-DEEP MULTI-SCALE VIDEO PREDICTION BEYOND MEAN SQUARE ERROR.(ICLR,2016)
+Deep Multi-Scale Video Prediction Beyond Mean Square Error.(ICLR,2016)
 ---------------------------------
 paper: https://arxiv.org/abs/1511.05440<br>
 Notes:https://zhuanlan.zhihu.com/p/99104462<br>
