@@ -47,6 +47,6 @@ Re-Implementation code: <br>
 
 
 ## Attain the relvant Datasetc an refer to below website:
-Caltech Pedestrian dataset  https://zhuanlan.zhihu.com/p/67506829
+Caltech Pedestrian dataset：https://zhuanlan.zhihu.com/p/67506829<br>
 Kitti: https://github.com/coxlab/prednet
 
