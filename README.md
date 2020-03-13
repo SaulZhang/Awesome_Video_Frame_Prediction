@@ -1,6 +1,23 @@
 # Video_Prediction_ZOO
 This is a zoo which contains all kinds of video prediction model code(reimplementation or author provide)and the papers.The purpose of creating this repository is to make it easy for newbies in the video prediction field to get started.
 
+Disentangling Physical Dynamics from Unknown Factors for Unsupervised Video Prediction.（CVPR,2020）
+---------------------------------
+Paper:https://arxiv.org/abs/2003.01460<br>
+Notes:<br>
+Re-Implementation code: <br>
+
+Efficient and Information-Preserving Future Prediction and Beyond（ICLR,2020）
+---------------------------------
+paper：https://openreview.net/pdf?id=B1eY_pVYvB <br>
+Notes: <br>
+Re-Implementation code: <br>
+
+Disentangling Propagation and Generation for Video Prediction Hang.（ICCV,2019）
+---------------------------------
+Paper:http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Disentangling_Propagation_and_Generation_for_Video_Prediction_ICCV_2019_paper.pdf<br>
+Notes: <br>
+Re-Implementation code:  <br>
 
 Predicting_Future_Frames_Using_Retrospective_Cycle_GAN.（CVPR,2019）
 ---------------------------------
