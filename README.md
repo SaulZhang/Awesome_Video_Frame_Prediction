@@ -44,9 +44,7 @@ code: None<br>
 ### [Video-to-Video Synthesis.(NIPS, 2018)](https://arxiv.org/abs/1808.06601)
 code: https://github.com/NVIDIA/vid2vid <br>
 
-### Dual Motion GAN for Future-Flow Embedded Video Prediction.（ICCV,2017）
----------------------------------
-paper: https://arxiv.org/pdf/1708.00284.pdf<br>
+### [Dual Motion GAN for Future-Flow Embedded Video Prediction.（ICCV,2017）](1708.00284.pdf)
 Notes:https://zhuanlan.zhihu.com/p/100217899<br>
 code: None<br>
 
