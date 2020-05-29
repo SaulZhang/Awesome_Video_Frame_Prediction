@@ -48,7 +48,7 @@ code: https://github.com/NVIDIA/vid2vid <br>
 Notes:https://zhuanlan.zhihu.com/p/100217899<br>
 code: None<br>
 
-### [Deep predictive coding networks for video prediction and unsupervised learning.]（ICLR,2017）(https://arxiv.org/pdf/1605.08104.pdf)
+### [Deep predictive coding networks for video prediction and unsupervised learning.（ICLR,2017）](https://arxiv.org/pdf/1605.08104.pdf)
 Notes:https://zhuanlan.zhihu.com/p/99590222<br>
 code: https://github.com/coxlab/prednet （official implementation in TensorFlow）<br>
 
@@ -78,4 +78,3 @@ LPIPS：(The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.
 ###  Attain the relvant Dataset can refer to below website:
 Caltech Pedestrian dataset：https://zhuanlan.zhihu.com/p/67506829<br>
 Kitti: https://github.com/coxlab/prednet
-
