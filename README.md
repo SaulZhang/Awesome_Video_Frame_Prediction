@@ -23,7 +23,7 @@ Efficient and Information-Preserving Future Prediction and Beyond（ICLR,2020）
 ---------------------------------
 paper：https://openreview.net/pdf?id=B1eY_pVYvB <br>
 Notes: <br>
-Re-Implementation code: <br>
+code: https://github.com/GilgameshYu/CrevNet-Traffic4cast <br>
 
 Improved Conditional VRNNs for Video Prediction.（ICCV,2019）
 ---------------------------------
