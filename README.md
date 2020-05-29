@@ -72,8 +72,8 @@ code: <br>
 
 
 ## Evaluation Metric
-LPIPS：(The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.)[https://arxiv.org/abs/1801.03924]
-
+LPIPS：[The Unreasonable Effectiveness of Deep Features as a Perceptual Metric.](https://arxiv.org/abs/1801.03924)
+SSIM:[Image quality assessment: from error visibility to structural similarity.](https://www.cns.nyu.edu/pub/lcv/wang03-preprint.pdf)
 
 ###  Attain the relvant Dataset can refer to below website:
 Caltech Pedestrian dataset：https://zhuanlan.zhihu.com/p/67506829<br>
