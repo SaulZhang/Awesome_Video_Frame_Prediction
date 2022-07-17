@@ -1,6 +1,6 @@
 # Video_Prediction_ZOO
 
-This is a zoo which contains all kinds of video prediction model code(reimplementation or author provide)and the papers.The purpose of creating this repository is to make it easy for newbies in the video prediction field to get started.
+This is a zoo that contains all kinds of video frame prediction papers and code (reimplementation or offofficial implementation). The purpose of this repository is to make it easy for newbies in the video prediction field to get started.
 
 ## Latest papers
 
